@@ -13,16 +13,16 @@ A full-stack web application Learning System with a deployed frontend and backen
 🛠 Deployed on: Render
 
 ## 🧰 Tech Stack
-- Frontend: HTML, CSS, JavaScript (or React – update if needed)
+- Frontend: HTML, CSS, JavaScript (or React)
 - Backend: Node.js, Express
 - Deployment: Vercel (Frontend), Render (Backend)
 
 ## 📌 Description
 This project demonstrates a complete web application workflow, including frontend UI, backend API, and live deployment. It focuses on building, connecting, and deploying a full-stack application.
 
+---
 
-
-# Chatx Final Version
+# Chatx – Final Version
 
 This is a computer networks project that implements a peer-to-peer communication platform, allowing direct communication between peers over a network.
 
@@ -36,21 +36,23 @@ All source files required to run the project are included in the repository.
 ➡️ **Important:**  
 Please refer to the `Runme.txt` file for detailed instructions on how to compile, configure, and run the project.
 
-
-
+---
 
 # Extended Multi-Class Geographical Classification
 
 ## Desert, Mountain, and Lake Detection from Satellite Images Using Deep Feature Fusion
 
-This repository contains the research work titled **“Extended Classification of Geographical Features: Desert, Mountain, and Lake Detection from Satellite Images Using Deep Feature Fusion”**.
+This repository contains the research work titled  
+**“Extended Classification of Geographical Features: Desert, Mountain, and Lake Detection from Satellite Images Using Deep Feature Fusion”**.
 
 The study proposes a deep learning–based framework for multi-class land-cover classification using satellite imagery. It extends prior binary classification approaches by introducing **lake detection** and a **deep feature fusion strategy** to improve performance in a more challenging three-class scenario.
 
 ---
 
 ## 📄 Abstract
-Satellite imagery plays a key role in environmental monitoring and land-cover analysis. This work presents an enhanced deep learning approach for automatically classifying satellite images into **desert**, **mountain**, and **lake** categories. The framework employs pre-trained **DenseNet models** for feature extraction, followed by feature reduction and **serial feature fusion**. The fused feature vector is then classified using SoftMax and traditional machine-learning classifiers.
+Satellite imagery plays a key role in environmental monitoring and land-cover analysis. This work presents an enhanced deep learning approach for automatically classifying satellite images into **desert**, **mountain**, and **lake** categories.
+
+The framework employs pre-trained **DenseNet models** for feature extraction, followed by feature reduction and **serial feature fusion**. The fused feature vector is then classified using SoftMax and traditional machine-learning classifiers.
 
 Experimental results demonstrate that the proposed **FFV-SM (Fused Feature Vector with SoftMax)** approach achieves up to **99.25% accuracy**, outperforming individual DenseNet models and previously reported two-class systems.
 
@@ -65,7 +67,7 @@ Experimental results demonstrate that the proposed **FFV-SM (Fused Feature Vecto
   - SoftMax
   - Decision Tree
   - Random Forest
-- Three-fold cross-validation for robustness
+- Three-fold cross-validation
 - Grad-CAM for model interpretability
 
 ---
@@ -133,4 +135,3 @@ If you use this work, please cite the corresponding paper.
 
 ## 📎 Paper
 The full paper is available in this repository as a PDF.
-

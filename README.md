@@ -22,32 +22,25 @@ This project demonstrates a complete web application workflow, including fronten
 
 ---
 
-ChatX – Peer-to-Peer Networking Application
+# ChatX – Peer-to-Peer Networking Application
 
 ChatX is a computer networks project that implements a peer-to-peer (P2P) communication platform, enabling direct communication between users over a network. The application supports real-time messaging and file transfer using both TCP and UDP, with encryption implemented to ensure secure data transmission.
 
-📌 Project Type
+## 📌 Project Type
+- Computer Networks / Networking Project
+- Peer-to-Peer (P2P) Communication
 
-Computer Networks / Networking Project
+## 🔑 Key Features
+- Real-time peer-to-peer messaging
+- File transfer functionality
+- Communication over TCP and UDP protocols
+- Encrypted data transmission for improved security
 
-Peer-to-Peer (P2P) Communication
-
-🔑 Key Features
-
-Real-time peer-to-peer chatting
-
-File transfer functionality
-
-Communication over TCP and UDP protocols
-
-Encrypted data transmission for improved security
-
-📂 Project Files
-
+## 📂 Project Files
 All source files required to run the project are included in the repository.
 
-➡️ Important:
-Please refer to the Runme.txt file for detailed instructions on how to compile, configure, and run the application.
+➡️ **Important:**  
+Please refer to the `Runme.txt` file for detailed instructions on how to compile, configure, and run the application.
 
 ---
 
